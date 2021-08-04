@@ -1,0 +1,6 @@
+# H2 CONSOLE
+spring:
+  h2.console.enabled: on
+  datasource.url: jdbc:h2:mem:testdb
+
+#security.user.name
